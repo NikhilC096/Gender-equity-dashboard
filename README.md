@@ -48,14 +48,13 @@ This repository hosts a suite of interactive Power BI dashboards designed to ana
 
 ## Dashboard Features
 
+https://github.com/NikhilC096/Gender-equity-dashboard/blob/5e6cdcb01191637e42fdcd58fe3473369edde6b4/1.PNG
+
 ### Gender Equity in Leadership
 
 - **Hiring Metrics:** Visual comparisons of male vs. female hiring ratios.
 - **Promotions Analysis:** Insights into promotion trends across various job levels.
 - **Turnover Insights:** Detailed examination of departure rates with a focus on gender differences.
-
-**Dashboard Image:**  
-*Insert image of Gender Equity in Leadership dashboard here.*
 
 ### Diversity & Inclusion Metrics
 
@@ -63,8 +62,6 @@ This repository hosts a suite of interactive Power BI dashboards designed to ana
 - **Executive Gender Balance:** Visual representation of leadership roles by gender.
 - **Demographic Distribution:** Analysis of age, nationality, and regional diversity.
 
-**Dashboard Image:**  
-*Insert image of Diversity & Inclusion Metrics dashboard here.*
 
 ## Key Insights & Findings
 
