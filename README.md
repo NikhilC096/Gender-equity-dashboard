@@ -98,6 +98,9 @@ This repository hosts a suite of interactive Power BI dashboards designed to ana
 
 Contributions and suggestions are welcome! To contribute:
 
+Connect with me in Linkedin : 
+https://www.linkedin.com/in/nikhil-chandran-0a779b1a4/
+
 ---
 
 *Data-driven insights can transform organizations. This project is a testament to how thoughtful design and narrative-driven visualization can drive meaningful change.*
