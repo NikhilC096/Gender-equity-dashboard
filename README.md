@@ -47,6 +47,9 @@ This repository hosts a suite of interactive Power BI dashboards designed to ana
 
 ![image alt  ](https://github.com/NikhilC096/Gender-equity-dashboard/blob/5e6cdcb01191637e42fdcd58fe3473369edde6b4/1.PNG)
 
+![image alt  ](https://github.com/NikhilC096/Gender-equity-dashboard/blob/881ef837bf58aa88f25caabe526bb77171bf60b8/2.PNG)
+
+![image alt]( https://github.com/NikhilC096/Gender-equity-dashboard/blob/881ef837bf58aa88f25caabe526bb77171bf60b8/3.PNG)
 
 ### Gender Equity in Leadership
 
