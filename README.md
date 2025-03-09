@@ -18,9 +18,6 @@
 This repository hosts a suite of interactive Power BI dashboards designed to analyze Diversity & Inclusion metrics with a special focus on gender equity, hiring trends, promotions, turnover, and performance ratings. The dashboards provide actionable insights to empower HR teams and leadership to make data-driven decisions for fostering an inclusive workplace.
 
 
-
-> **Unique Angle:** Each KPI is presented as part of a narrative, telling the story of the organization's journey toward greater equity and diversity.
-
 ## Project Objectives
 
 - **Monitor Gender Equity:** Evaluate hiring ratios, promotions, and turnover to assess gender balance in leadership roles.
@@ -48,7 +45,8 @@ This repository hosts a suite of interactive Power BI dashboards designed to ana
 
 ## Dashboard Features
 
-https://github.com/NikhilC096/Gender-equity-dashboard/blob/5e6cdcb01191637e42fdcd58fe3473369edde6b4/1.PNG
+![image alt  ](https://github.com/NikhilC096/Gender-equity-dashboard/blob/5e6cdcb01191637e42fdcd58fe3473369edde6b4/1.PNG)
+
 
 ### Gender Equity in Leadership
 
